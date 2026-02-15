@@ -9,3 +9,9 @@
 ### Keras 2.0.8
 ### Python 3.5.2
 ### Tensor2Tensor 1.2.9
+
+#### BLEU Score
+![BLEU Score](shah-prj/writeup/doc/BLEU.png)
+
+#### Loss
+![Loss](shah-prj/writeup/doc/loss.png)
