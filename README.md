@@ -1,6 +1,9 @@
 # Language Classifier and Contextual Translation
-## By Alex Shah - 2017
+### 2017
+Classify text using CNN and translate to target language using Transformer. Using Tensorflow. 
+
 **Key Concepts** Machine Learning, Tensorflow, Python, CNN, Transformer, NLP
+
 ### [Code & Report](shah-prj/writeup)
 
 ## Tested with:
